@@ -1,0 +1,7 @@
+{
+  "name": "INVESTIA México PRO",
+  "description": "Plataforma institucional de inteligencia patrimonial y simulador de rendimiento compuesto para inversiones en México en pesos (MXN).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
